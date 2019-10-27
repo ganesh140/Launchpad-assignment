@@ -1,0 +1,5 @@
+a=input("Enter name:")
+b=input("Enter age:")
+c=int(b)
+d=2019+(100-c)
+print(f"Hello {a} ! You'll turn 100 years old in {d}")
